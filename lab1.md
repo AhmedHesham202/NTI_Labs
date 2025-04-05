@@ -90,15 +90,6 @@ tail -n 7 /etc/passwd
 ```
 
 ---
-
-### 11. Display the man pages of the `passwd` command and file sequentially  
-⚠️ Original command was incorrect. Use:  
-```bash
-man passwd
-```
-
----
-
 ### 12. Display the man page of the `passwd` command (not the file)  
 ```bash
 man passwd
@@ -129,8 +120,8 @@ sudo vi mycv
 - **Move up one line:** `k`  
 - **Search for word "age":** `/age`  
 - **Jump to line 5:** `5G`  
-- **Delete current and line 5:** `dd` (on each line)  
-- **Go to end of line and enter insert mode:** `A`
+- **Delete current and line 5:** `dd` (on any line)  
+- **Go to end of line and enter insert mode:** Shift + a `A` 
 
 ---
 
@@ -151,6 +142,6 @@ cat /etc/shells
 
 ## 📎 Author
 
-- Name: *Your Name Here*
+- Name: Ahmed Hesham
 - Course: Linux Basics
 - Date: April 2025
