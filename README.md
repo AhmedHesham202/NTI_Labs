@@ -18,7 +18,7 @@ It includes answers to common Linux shell operations, command usage, and text ed
 
 ## 👤 Author
 
-**Name**: *Your Name Here*  
+**Name**: Ahmed Hesham  
 **Course**: Linux Basics  
 **Date**: April 2025
 
