@@ -90,7 +90,7 @@ tail -n 7 /etc/passwd
 ```
 
 ---
-### 12. Display the man page of the `passwd` command (not the file)  
+### 12. Display the man page of the `passwd` command   
 ```bash
 man passwd
 ```
